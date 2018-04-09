@@ -1,11 +1,13 @@
 [ openskills4web]
+
 Project lead: Trust Odia
 Interest: Open web
+
 [This project is aimed at providing skills and tools for web development/innovation]
 
-WELCOME! to openskills4web project page
+WELCOME! to "openskills4web" project page
 
-The web is a platform/re source for information gathering, research, innovation,networking, collacoration and many more! 
+The web is a platform/resource for information gathering, research, innovation,networking, collacoration and many more! 
 Unfortunnately, some persons do not have the skills,tools and Knowledge to harness the opportunities/benefits offered by the web.
 This project is aimed at providing open tools, skills, software, materials and resources(links) for web development/innovation.
 I believe that an open web leads to innovation.
