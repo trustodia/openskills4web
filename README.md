@@ -1,6 +1,7 @@
 [ openskills4web]
 
 Project lead: Trust Odia
+
 Interest: Open web
 
 [This project is aimed at providing skills and tools for web development/innovation]
