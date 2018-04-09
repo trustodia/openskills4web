@@ -1,8 +1,8 @@
 [ openskills4web]
-
+Project lead: Trust Odia
+Interest: Open web
 [This project is aimed at providing skills and tools for web development/innovation]
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 WELCOME! to openskills4web project page
 
 The web is a platform/re source for information gathering, research, innovation,networking, collacoration and many more! 
